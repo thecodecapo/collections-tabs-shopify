@@ -4,7 +4,7 @@ ID : 20092401
 
 The source code for collections tabs shopify section for "Refresh Theme V14.0.0".
 
-<img width="1438" alt="Screenshot 2024-09-20 at 06 29 46" src="https://github.com/user-attachments/assets/5d393407-f904-440d-ab2a-bbd557a42934">
+<img width="1438" alt="preview" src="https://github.com/user-attachments/assets/5d393407-f904-440d-ab2a-bbd557a42934">
 
 ## Installation
 
